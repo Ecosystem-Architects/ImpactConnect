@@ -3,9 +3,8 @@
 > Open-source professional networking, community collaboration, and social impact platform for young changemakers.
 
 **License:** MIT  
-**Project Admin:** [Your Name] — [GitHub] — [Discord/Email]  
+**Project Admin:** Shanaya Mahendran
 **Repo:** `https://github.com/Ecosystem-Architects/ImpactConnect`  
-**Status:** SWOC project — looking for contributors
 
 ---
 
@@ -14,10 +13,11 @@
 ImpactConnect gives young professionals and changemakers a single digital home to connect, collaborate on real-world projects, and track social impact.
 
 ## Quick start
+Fork this Repository
 
 ```bash
 # Clone
-git clone https://github.com/Ecosystem-Architects/ImpactConnect.git
+git clone https://github.com/your-username/ImpactConnect.git
 cd impactconnect
 
 # Frontend
